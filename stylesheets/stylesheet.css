@@ -46,6 +46,10 @@ table {
 	border-collapse: collapse;
 }
 
+td.secon {
+  text-align: right;
+}
+
 /* LAYOUT STYLES */
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
