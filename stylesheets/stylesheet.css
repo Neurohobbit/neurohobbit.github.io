@@ -50,6 +50,10 @@ td.secon {
   text-align: left;
 }
 
+td.first {
+  text-align: right;
+}
+
 /* LAYOUT STYLES */
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
